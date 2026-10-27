@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1050" height="600" viewBox="0 0 1050 600" role="img">
+<rect width="1050" height="600" fill="#fff"/>
+<text x="72" y="104" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="32" font-weight="700" fill="#000" letter-spacing="-0.6">Why cash matters</text>
+<text x="72" y="136" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" font-weight="400" fill="#000">What disappears without cash.</text>
+<rect x="72" y="183" width="8" height="8" fill="#000"/>
+<text x="96" y="196" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#000">Private by default</text>
+<text x="96" y="220" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#000">No one records what you buy or where.</text>
+<rect x="72" y="265" width="8" height="8" fill="#000"/>
+<text x="96" y="278" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#000">Works offline</text>
+<text x="96" y="302" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#000">No power, no signal, no bank required.</text>
+<rect x="72" y="347" width="8" height="8" fill="#000"/>
+<text x="96" y="360" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#000">Instant and final</text>
+<text x="96" y="384" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#000">No fees, no holds, no middleman.</text>
+<rect x="72" y="429" width="8" height="8" fill="#000"/>
+<text x="96" y="442" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#000">Money you hold</text>
+<text x="96" y="466" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#000">Not a number someone else can freeze.</text>
+<rect x="620" y="60" width="358" height="452" fill="#000"/>
+<text x="648" y="104" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#fff" letter-spacing="3.0">WHAT YOU CAN DO</text>
+<text x="648" y="198" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="27" font-weight="700" fill="#fff" letter-spacing="-0.4">Pay cash.</text>
+<text x="648" y="242" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="27" font-weight="700" fill="#fff" letter-spacing="-0.4">Ask for cash.</text>
+<text x="648" y="286" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="27" font-weight="700" fill="#fff" letter-spacing="-0.4">Tell one person.</text>
+<line x1="648" y1="322" x2="950" y2="322" stroke="#fff" stroke-width="1"/>
+<text x="648" y="354" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#fff">Every cash payment is a vote</text>
+<text x="648" y="374" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#fff">for a free economy.</text>
+<text x="648" y="470" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" font-weight="500" fill="#fff">Keep this card. Pass it on.</text>
+<line x1="72" y1="548" x2="978" y2="548" stroke="#000" stroke-width="1"/>
+<text x="72" y="578" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#000">Cash works when nothing else does.</text>
+</svg>
